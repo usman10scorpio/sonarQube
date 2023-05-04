@@ -1,0 +1,17 @@
+
+@import "../assets/sass/importFiles";
+
+.home {
+    display: block;
+    height: 100%;
+    position: relative;
+
+    &__username {
+        height: unset;
+    }
+
+    @include breakpoint(mobileLarge) {
+        padding: 0 1rem;
+    }
+
+}

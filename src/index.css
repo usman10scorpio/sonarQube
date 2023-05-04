@@ -1,0 +1,21 @@
+html {
+  font-size: 62.5%;
+  /* default font size is 10px -> 10/16 = 0.625 * 100% font size of browser*/
+}
+
+html * {
+  font-family: "Maven Pro";
+  letter-spacing: .1rem;
+}
+
+body {
+  margin: 0;
+  padding: 0 !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

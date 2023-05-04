@@ -1,0 +1,19 @@
+:export {
+  zanah: #e0efdc;
+}
+
+.home {
+  display: block;
+  height: 100%;
+  position: relative;
+}
+.home__username {
+  height: unset;
+}
+@media (max-width: 425px) {
+  .home {
+    padding: 0 1rem;
+  }
+}
+
+/*# sourceMappingURL=Home.css.map */

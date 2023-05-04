@@ -1,0 +1,25 @@
+@import "../../assets/sass/importFiles";
+
+.rtable{
+
+    &__avatar {
+        width: 10rem;
+        height: 10rem;
+        border-radius: 50%;
+        border: 1px solid $whiteSand;
+
+        @include breakpoint(mobileLarge) {
+            width: 5rem;
+            height: 5rem;
+          }
+    }
+
+}
+
+.rdt {
+
+    &_TableRow {
+        cursor: pointer;
+    }
+
+}

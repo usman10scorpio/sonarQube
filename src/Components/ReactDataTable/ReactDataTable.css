@@ -1,0 +1,22 @@
+:export {
+  zanah: #e0efdc;
+}
+
+.rtable__avatar {
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  border: 1px solid f6f6f6;
+}
+@media (max-width: 425px) {
+  .rtable__avatar {
+    width: 5rem;
+    height: 5rem;
+  }
+}
+
+.rdt_TableRow {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=ReactDataTable.css.map */
