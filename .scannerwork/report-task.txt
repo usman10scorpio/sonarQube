@@ -2,5 +2,5 @@ projectKey=github-user-search-sonarqube
 serverUrl=http://localhost:9000
 serverVersion=10.0.0.68432
 dashboardUrl=http://localhost:9000/dashboard?id=github-user-search-sonarqube
-ceTaskId=AYfmk8d6MZT3LA5cy54a
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYfmk8d6MZT3LA5cy54a
+ceTaskId=AYfmul9xMZT3LA5cy54m
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYfmul9xMZT3LA5cy54m
